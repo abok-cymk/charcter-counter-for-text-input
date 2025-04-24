@@ -1,0 +1,61 @@
+[
+    [{
+        "icon": {
+            "user": "<User />"
+        },
+        "title": "Name",
+        "title_description": "allanabok"
+    },
+    {
+        "icon": {
+            "alert-circle": "<AlertCircle />"
+        },
+        "title": "About",
+        "title_description": "Everyday just trying being better"
+    },
+    {
+        "icon": {
+            "alert-circle": "<Phone />"
+        },
+        "title": "Phone",
+        "title_description": "+254 112 823077"
+    },
+    {
+        "icon": {
+            "alert-circle": "<Link2 />"
+        },
+        "title": "Links",
+        "title_description": "Add links"
+    }],
+    [
+        {
+            "icon": {
+                "user": "<KeyRound />"
+            },
+            "title": "Name",
+            "title_description": "allanabok"
+        },
+        {
+            "icon": {
+                "alert-circle": "<AlertCircle />"
+            },
+            "title": "About",
+            "title_description": "Everyday just trying being better"
+        },
+        {
+            "icon": {
+                "alert-circle": "<Phone />"
+            },
+            "title": "Phone",
+            "title_description": "+254 112 823077"
+        },
+        {
+            "icon": {
+                "alert-circle": "<Link2 />"
+            },
+            "title": "Links",
+            "title_description": "Add links"
+        } 
+    ]
+
+]
